@@ -585,6 +585,9 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
+.scrollToTop_wraper {
+  display: none;
+}
 .form-control {
   font-family: 'Raleway', sans-serif;
   font-size: 0.9rem;
@@ -960,7 +963,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sFGMsvHDIa button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1102,35 +1105,32 @@ a {
   text-align: left;
   color: #232323;
 }
-.cid-t0aSuawpQQ {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
+.cid-t0bLH9o8IN {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
   background-color: #fafafa;
 }
-.cid-t0aSuawpQQ .mbr-iconfont {
-  font-size: 1.4rem !important;
-  font-family: 'Moririse2' !important;
-  color: #2299aa;
-  margin-left: 1rem;
+.cid-t0bLH9o8IN .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
 }
-.cid-t0aSuawpQQ .panel-group {
-  border: none;
-}
-.cid-t0aSuawpQQ .panel-title {
+.cid-t0bLH9o8IN .panel-title {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-.cid-t0aSuawpQQ .panel-body,
-.cid-t0aSuawpQQ .card-header {
-  padding: 1rem 0;
-}
-.cid-t0aSuawpQQ .panel-title-edit {
+.cid-t0bLH9o8IN .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
   color: #2299aa;
 }
-.cid-t0aSuawpQQ .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
+.cid-t0bLH9o8IN .panel-body,
+.cid-t0bLH9o8IN .card-header {
+  padding: 1rem 0;
+}
+.cid-t0bLH9o8IN .panel-title-edit {
+  color: #2299aa;
 }
 .cid-t09NkQ7xPe {
   padding-top: 5rem;
@@ -1490,7 +1490,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-t0aCi8JAWP button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1948,7 +1948,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-t0aLuB6VW7 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
