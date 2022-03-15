@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "publicacoes.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -65,7 +65,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Início",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -762,7 +762,7 @@
         }
       ]
     },
-    "page1.html": {
+    "quemsomos.html": {
       "settings": {
         "title": "Quem somos",
         "meta_descr": "",
@@ -1366,7 +1366,7 @@
         }
       ]
     },
-    "page2.html": {
+    "publicacoes.html": {
       "settings": {
         "title": "Publicações",
         "meta_descr": "",
