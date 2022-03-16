@@ -787,7 +787,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.3);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1314,7 +1314,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.3);
 }
 .cid-t0aCi8JAWP .navbar.opened {
   transition: all 0.3s;
@@ -1790,7 +1790,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.3);
 }
 .cid-t0aLuB6VW7 .navbar.opened {
   transition: all 0.3s;
@@ -2053,7 +2053,7 @@ a {
 }
 .cid-t0aLKWmnG1 {
   padding-top: 0rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-t0aLKWmnG1 img,
@@ -2107,6 +2107,64 @@ a {
   color: #2299aa;
 }
 .cid-t0aLKWmnG1 .item-subtitle {
+  text-align: left;
+}
+.cid-t0hKEmt7o7 {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-t0hKEmt7o7 img,
+.cid-t0hKEmt7o7 .item-img {
+  width: 100%;
+}
+.cid-t0hKEmt7o7 .item:focus,
+.cid-t0hKEmt7o7 span:focus {
+  outline: none;
+}
+.cid-t0hKEmt7o7 .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-t0hKEmt7o7 .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-t0hKEmt7o7 .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-t0hKEmt7o7 .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-t0hKEmt7o7 .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-t0hKEmt7o7 .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-t0hKEmt7o7 .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-t0hKEmt7o7 .mbr-section-title {
+  color: #232323;
+}
+.cid-t0hKEmt7o7 .mbr-text,
+.cid-t0hKEmt7o7 .mbr-section-btn {
+  text-align: left;
+}
+.cid-t0hKEmt7o7 .item-title {
+  text-align: left;
+  color: #2299aa;
+}
+.cid-t0hKEmt7o7 .item-subtitle {
   text-align: left;
 }
 .cid-t0aLuDyN8P {
